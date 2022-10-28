@@ -1,0 +1,16 @@
+{
+  "name": "@andiwonder/server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"all tests passed: server\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@andiwonder/common": "1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
