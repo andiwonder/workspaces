@@ -1,6 +1,6 @@
 {
   "name": "@andiwonder/server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@andiwonder/common": "1.0.0",
+    "@andiwonder/common": "^1.0.1",
     "lodash": "^4.17.21"
   }
 }
